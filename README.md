@@ -1,10 +1,7 @@
-## 18F Engineering hiring guides
+## hiring-guide-template
 
-Our guide to how 18F Engineering selects candidates, from
-resume screen to offer.
+A template for hiring based off of 18F's Engineering Hiring Guidge - Eng-hiring.18f.gov
 
-**Note to 18F staff:**
+# (add how to use section)
 
-As much as possible, this should be publicly-accessible: interviews shouldn't
-be about surprises or gotchas. For the few things that can't be public,
-put them in a private Google Doc and link it here.
+
